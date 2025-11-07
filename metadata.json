@@ -1,0 +1,5 @@
+{
+  "name": "Paper Line",
+  "description": "A web-app to generate custom printable grid paper (dots, isometric dots, lines, graph/grid squares, hexagons, music staff) which you can then print.",
+  "requestFramePermissions": []
+}
